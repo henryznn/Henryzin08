@@ -1,4 +1,6 @@
 ![fla-tv-flamengo (1)]
+![image](https://github.com/user-attachments/assets/2f91c625-895e-4f55-940f-f4fe5d48faf3)
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
