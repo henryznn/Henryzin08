@@ -45,9 +45,5 @@ Quer ajudar a melhorar esse projeto? Todo mundo é bem-vindo! Basta criar um for
 * **Chamada para a colaboração:** Incentiva a participação de outros desenvolvedores, tornando o projeto mais colaborativo e divertido.
 * **Uso de hashtags:** A inclusão de hashtags relevantes torna o projeto mais fácil de encontrar em plataformas como o GitHub.
 
-**Lembre-se:** É importante adaptar esse README.md de acordo com o seu público e com as características específicas do seu projeto. 
-
-**Gostou? Precisa de mais alguma coisa? É só pedir!** 
-
 
 ![Descrição do GIF](https://i.gifer.com/Qxlk.gif)
